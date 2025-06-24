@@ -12,7 +12,7 @@
 <p><strong>💡 What I always pursue:</strong></p>
 
 <p>
-  <em>"Write code not just to make it work, but to make it easy for others to read."</em>
+  <em>"Write code that not only works, but is also easy for others to read."</em>
 </p>
 
 ---
