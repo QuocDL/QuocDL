@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Quốc Lương</h1>
-<h3 align="center">A passionate Front-End Developer from Vietnam 🇻🇳</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=I'm+a+passionate+Front-End+Developer+from+Vietnam." alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="mailto:quoclcph18659@gmail.com">📧 Email</a> •
 </p>
 
 ---
@@ -14,22 +14,35 @@
 - 💼 I'm currently working with **React**, **React Native**, and **TypeScript**
 - 🧠 Always learning and improving: UX, UI, performance
 - 🌱 Interested in Mobile App Development and Modern Frontend
-- 📫 Reach me: `your-email@gmail.com`
+- 📫 Reach me: `quoclcph18659@gmail.com`
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages**: JavaScript / TypeScript  
-- **Frontend**: React / React Native / Tailwind / NativeWind  
-- **State Management**: Redux Toolkit / Zustand / React Query  
-- **Backend (cơ bản)**: Node.js / Express  
-- **Tools**: Git, GitHub, VSCode, Postman
+- **Languages**: JavaScript, TypeScript, Python  
+- **Frontend**:
+  - ReactJS / NextJS / Angular
+  - Tailwind CSS / Bootstrap
+- **Backend**:
+  - Node.js / ExpressJS
+- **Databases**:
+  - MongoDB / MySQL
+- **Tools**:
+  - Git / GitHub / Postman / VSCode
+  - Figma
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Other Skills
+
+- Web Application Development (SPA, SSR)
+- RESTful API Design & Integration
+
+---
+
+### 📚 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuocDL&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuocDL&layout=compact&theme=radical" alt="Top Langs" />
 </p>
