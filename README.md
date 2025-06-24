@@ -9,6 +9,9 @@
 
 ---
 
+<p><strong>💡 What I always pursue:</strong><br><em>"Write code not just to make it work, but to make it easy for others to read."</em></p>
+
+---
 ### 🧑‍💻 About me:
 
 - 💼 I'm currently working with **React**, **React Native**, and **TypeScript**
