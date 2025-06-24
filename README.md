@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:quoclcph18659@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a> •
+  <a href="https://mail.google.com/mail/?view=cm&to=quoclcph18659@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a>
 </p>
 
 ---
