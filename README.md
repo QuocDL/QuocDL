@@ -7,6 +7,8 @@
   <a href="https://mail.google.com/mail/?view=cm&to=quoclcph18659@gmail.com" target="_blank" rel="noopener noreferrer">📧 Email</a>
 </p>
 
+🧑‍💻 Luong Chinh Quoc — AKA <em>DevJin</em>
+
 ---
 
 <p><strong>💡 What I always pursue:</strong></p>
